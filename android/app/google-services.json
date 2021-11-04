@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "920021668368",
+    "project_id": "basvuruapp-ee951",
+    "storage_bucket": "basvuruapp-ee951.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920021668368:android:444cc2894329e8de6b3095",
+        "android_client_info": {
+          "package_name": "com.example.basvuru_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920021668368-7becc8hnn167epmpa5mluu9ecdtqo8qq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB65rSEJ4sQRIJmJQk6XMTAegdxC3zc0HQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920021668368-7becc8hnn167epmpa5mluu9ecdtqo8qq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
